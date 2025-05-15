@@ -40,7 +40,7 @@ Game Loss Screen:
 
 Game Win Screen:
 
-_I was never able to win, lol :(_
+![screenshot](images/win.png)
 
 # Final Thoughts
 
